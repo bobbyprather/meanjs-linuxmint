@@ -16,9 +16,9 @@ Clone this project to a directory. After cloning it to execute
 `vagrant up` in the same directory. 
 
 ----
-#VM Login
+# VM Login
 username: vagrant passward: vagrant
 
 ----
-#Starting Mongodb
+# Starting Mongodb
 Run mongo in a terminal by typing `sudo mongod &`
